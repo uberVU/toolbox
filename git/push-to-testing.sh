@@ -4,7 +4,6 @@
 # Re-checkout current branch
 
 # For ease of use alias this script into your bash or zsh config file 
-# (i.e. alias push_testing='~/.ubervu/thehole/uvscripts/github/push_in_testing.sh'
 
 # Make sure we fail on errors
 set -e
