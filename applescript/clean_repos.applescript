@@ -11,7 +11,7 @@ tell application "iTerm"
 			set mysession to current session
 		end tell
 	end try
-	
+
 	tell mysession
 		write text clean_repos
 	end tell
