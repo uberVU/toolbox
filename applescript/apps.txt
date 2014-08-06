@@ -1,7 +1,10 @@
 GitHub
-Propane
-Adium
-Sublime Text 2
+HipChat
 Sequel Pro
 Tunnelblick
 Skitch
+Sublime Text
+Trailer
+Adium
+Nagstamon
+CCMenu
